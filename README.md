@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a student, learning smart contracts development with Python on Cartesi
-- 💬 Ask me about ... Financial/trading/web3/Personal development 
+- 💬 Ask me about ... Financial/trading/web3/Product Creation
 
 <!--
 **blassmm/blassmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
