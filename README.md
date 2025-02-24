@@ -8,8 +8,10 @@ I'm a freelance self-taught Front End dev.<br>Recently studying at a university 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blasmontanari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blzzzz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montanariblas@hotmail.com) 
 
 ## 💼 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=blassmm&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<div style="display: flex; align-items: stretch;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blassmm&theme=dark&hide_border=false" style="height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; object-fit: cover;"/>
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
