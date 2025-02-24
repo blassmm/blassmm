@@ -13,9 +13,7 @@ I'm a freelance self-taught Front End dev.<br>Recently studying at a university 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; object-fit: cover;"/>
 </div>
 <br/>
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px; object-fit: cover;"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px; object-fit: cover;"/>
 
 
 
