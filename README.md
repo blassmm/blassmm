@@ -11,9 +11,9 @@ I'm a freelance self-taught Front End dev.<br>Recently studying at a university 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blassmm&theme=dark&hide_border=false" style="width: 100%; height: 300px;"/><br/>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%; height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%; height: 200px;"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 50%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blassmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 50%; height: 200px;"/>
 </div>
 
 
